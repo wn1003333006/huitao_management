@@ -1,0 +1,28 @@
+
+.left{
+	min-height: 650px;
+	background-color: #3A3F51;
+	
+	padding: 0;
+}
+.left a{
+	color: #838691;
+	font-size: 15px;
+}
+.right{
+	min-height:  650px;
+	background-color: white;
+}
+.right-top{
+   background-color: #EAECF2;
+}
+.right-top a{
+	color:  #101010;
+}
+.right-bottom{
+	background-color: white;
+}
+.tab td button{
+	padding: 5px;
+	font-size: 12px;
+}
